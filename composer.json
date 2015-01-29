@@ -1,0 +1,17 @@
+{
+  "name": "chaucerbao/censorship",
+  "description": "A library for filtering out banned words",
+  "authors": [{
+    "name": "Alvin Chan",
+    "email": "aschan@gmail.com"
+  }],
+  "require": {},
+  "require-dev": {
+    "phpspec/phpspec": "~2.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Chaucerbao\\": "src/"
+    }
+  }
+}
